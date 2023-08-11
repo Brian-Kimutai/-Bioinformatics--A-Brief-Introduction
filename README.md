@@ -1,4 +1,4 @@
-## Unit 001 ~ Bioinformatics: A brief Introduction
+## ~ Bioinformatics: A brief Introduction
 ### Overview 
 Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data, especially when the data sets are large and complex. Bioinformatics uses biology, chemistry, physics, computer science, [computer programming](https://en.wikipedia.org/wiki/Computer_programming), information engineering, mathematics and statistics to analyze and interpret biological data.
 The subsequent process of analyzing and interpreting data is referred to as **computational biology**.
@@ -14,7 +14,7 @@ It involves processing, storing and analysing biological data. This might includ
   
   ![Protein Folding](https://chem.libretexts.org/@api/deki/files/354713/mindtouch.page%2523thumbnail?revision=1)
 - Modelling how all the chemical reactions in a cell interact with each other
-### Types of Biological Data Used in Bionfromatics
+### Types of Biological Data Used in Bioinfromatics
 - *Transcriptomics-*: the study of the transcriptome, the full set of RNA transcripts in a cell.
 Genes aren’t constantly active. They can be turned on and off by proteins and chemical messengers. A gene that is turned on, or expressed will be used to produce RNA which is then used as the assembly instructions for a protein.
 Scientists can use RNA sequencing to compare gene expression in different cell types, for example between healthy and diseased cells.
