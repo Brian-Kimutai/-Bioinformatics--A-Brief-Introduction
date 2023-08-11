@@ -1,4 +1,5 @@
 ## ~ Bioinformatics: A brief Introduction
+In this repository I outline a brief description or a general overview of Bioinformatics, that can serve as foundational knowledge before venturing into Bioinformatics. Glad to see you here.Contributions are welcome. :smile: Lets dig in :arrow_heading_down:
 ### Overview 
 Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data, especially when the data sets are large and complex. Bioinformatics uses biology, chemistry, physics, computer science, [computer programming](https://en.wikipedia.org/wiki/Computer_programming), information engineering, mathematics and statistics to analyze and interpret biological data.
 The subsequent process of analyzing and interpreting data is referred to as **computational biology**.
