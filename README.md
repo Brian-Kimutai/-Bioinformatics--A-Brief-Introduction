@@ -1,5 +1,5 @@
 ## ~ Bioinformatics: A brief Introduction
-In this repository I outline a brief description or a general overview of Bioinformatics, that can serve as foundational knowledge before venturing into Bioinformatics. Glad to see you here.Contributions are welcome. :smile: Lets dig in :arrow_heading_down:
+In this repository I outline a brief description or a general overview of Bioinformatics, that can serve as foundational knowledge before venturing into Bioinformatics. Glad to see you here. Contributions are welcome. :smile:  Lets dig in  :arrow_heading_down:
 ### Overview 
 Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data, especially when the data sets are large and complex. Bioinformatics uses biology, chemistry, physics, computer science, [computer programming](https://en.wikipedia.org/wiki/Computer_programming), information engineering, mathematics and statistics to analyze and interpret biological data.
 The subsequent process of analyzing and interpreting data is referred to as **computational biology**.
@@ -53,7 +53,7 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 
 5. Command-line proficiency - It is very important to be comfortable working in a Linux environment. One will have to run a lot of software that is only command-line-based. 
 
-6. Programming languages - Now, it is a must in the field of bioinformatics to learn some programming languages such as Python, R, Perl, PHP, MySQL, etc.These languages are helpful in developing new software or bioinformatics tools that are in demand these days.
+6. Programming languages - Now, it is a must in the field of bioinformatics to learn some programming language such as Python, R, Perl, PHP, MySQL, etc.These languages are helpful in developing new software or bioinformatics tools that are in demand these days.
 
 7. Phylogenetics/ Evolutionary studies - Phylogenetics is important to understand the phylogeny of an organism or a species or a genus. You will have to learn different tools to perform phylogenetics. Evolutionary studies help to understand the evolution of a gene, protein, species, genus, or organism. You may have to use a set of tools to finally trace the evolutionary history.
 
@@ -62,5 +62,6 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 9. Sequencing methods and data analysis - DNA/RNA sequencing methods are another important concept in bioinformatics. That includes a next-generation sequence (NGS) and its data analysis, RNAseq-data analysis, and so on. Most labs work on NGS data.Becoming an expert in this offers many opportunities in research.
 
 10. Database development and management - Biological databases are considered as one of the important resources of information in bioinformatics.It is important learn how the databases are developed and managed on servers. Besides, learning  to create websites/webpages, back-end, and front-end processing would be a plus.
+
 
 
