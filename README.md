@@ -70,5 +70,8 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 
 10. Database development and management - Biological databases are considered as one of the important resources of information in bioinformatics.It is important learn how the databases are developed and managed on servers. Besides, learning  to create websites/webpages, back-end, and front-end processing would be a plus.
 
+## Contributions
+As indicated earlier,Contributions to this repository are welcome;If you have any improvements, suggestions, or additional resources to share, please feel free to create pull requests.
+
 
 
