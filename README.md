@@ -1,9 +1,9 @@
 ## ~ Bioinformatics: A brief Introduction
 In this repository I outline a brief description or a general overview of Bioinformatics, that can serve as foundational knowledge before venturing into Bioinformatics. Glad to see you here. Contributions are welcome. :smile:  Lets dig in  :arrow_heading_down:
 ## Table Of Contents
-1. [Overview](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/edit/main/README.md#overview)
+1. [Overview]
 2. [Biologiocal Data Used in Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#types-of-biological-data-used-in-bioinfromatics)
-3. [Reasons to study Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#types-of-biological-data-used-in-bioinfromatics)
+3. [Reasons to study Bioinformatics]
 4. [Key Concepts In Bioinformatics](
 5. Contributions
    
