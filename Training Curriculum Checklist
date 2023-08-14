@@ -1,0 +1,13 @@
+Whether self-taught or Instructor-led, a basic Bioinformatics training should at least be composed of the  following topics:
+
+Slack, Git, and GitHub
+UNIX command-line
+Shell scripting-A shell script is a computer program designed to be run by a Unix shell,(a text file that contains a sequence of commands for a UNIX-based operating system)It is called a shell script because it combines a sequence of commands, that would otherwise have to be typed into the keyboard one at a time, into a single script. 
+Conda
+Genome assembly
+Strain typing
+Database querying
+Phylogenetic analysis
+Python and machine learning for bioinformatics
+Nextflow and Docker
+R programming-for Visualization
