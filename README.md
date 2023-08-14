@@ -3,7 +3,7 @@ In this repository I outline a brief description or a general overview of Bioinf
 ## Table Of Contents
 1. [Overview]
 2. [Biologiocal Data Used in Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#types-of-biological-data-used-in-bioinfromatics)
-3. [Reasons to study Bioinformatics](
+3. [Reasons to study Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#why-study-bioinformatics)
 4. [Key Concepts In Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#key-concepts-in-bioinformatics)
 5. Contributions
    
