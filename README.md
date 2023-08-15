@@ -5,10 +5,10 @@ In this repository I outline a brief description or a general overview of Bioinf
 2. [Biologiocal Data Used in Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#types-of-biological-data-used-in-bioinfromatics)
 3. [Reasons to study Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#why-study-bioinformatics)
 4. [Key Concepts In Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#key-concepts-in-bioinformatics)
-5. [License]
-6. [Contributing]
+5. [License](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#license)
+6. [Contributing](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#contributing)
 7. [Important links](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#important-links)
-8. [Contact]
+8. [Contact](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#contact)
    
 ### Overview 
 Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data, especially when the data sets are large and complex. Bioinformatics uses biology, chemistry, physics, computer science, [computer programming](https://en.wikipedia.org/wiki/Computer_programming), information engineering, mathematics and statistics to analyze and interpret biological data.
@@ -82,7 +82,6 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 
 ## License
 This project is licensed under the MIT License.
-
 
 ## Contributing
 As indicated earlier,Contributions to this repository are welcome;If you have any improvements, suggestions, or additional resources to share, please feel free to create [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
