@@ -61,7 +61,7 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 
 5. Command-line proficiency - It is very important to be comfortable working in a Linux environment. One will have to run a lot of software that is only command-line-based. 
 
-6. Programming languages - Now, it is a must in the field of bioinformatics to learn some programming language such as Python, R, PHP, etc.These languages are helpful in developing new software or bioinformatics tools that are in demand these days.I have included useful resources on this [here](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#important-links)
+6. Programming languages - Now, it is a must in the field of bioinformatics to learn some programming language such as Python, R, PHP, etc.These languages are helpful in developing new software or bioinformatics tools that are in demand these days.I have included useful resources on this, [here.](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#important-links)
 
 7. Phylogenetics/ Evolutionary studies - Phylogenetics is important to understand the phylogeny of an organism or a species or a genus. You will have to learn different tools to perform phylogenetics. Evolutionary studies help to understand the evolution of a gene, protein, species, genus, or organism. You may have to use a set of tools to finally trace the evolutionary history.
 
