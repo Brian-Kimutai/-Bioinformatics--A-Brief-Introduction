@@ -81,7 +81,7 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 |`Curriculum Checklist ` | List of Bioinformatics Topics |
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License.](https://opensource.org/license/mit/)
 
 ## Contributing
 As indicated earlier,Contributions to this repository are welcome;If you have any improvements, suggestions, or additional resources to share, please feel free to create [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
