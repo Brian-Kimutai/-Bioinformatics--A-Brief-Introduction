@@ -60,7 +60,7 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 
 5. Command-line proficiency - It is very important to be comfortable working in a Linux environment. One will have to run a lot of software that is only command-line-based. 
 
-6. Programming languages - Now, it is a must in the field of bioinformatics to learn some programming language such as Python, R, Perl, PHP, MySQL, etc.These languages are helpful in developing new software or bioinformatics tools that are in demand these days.
+6. Programming languages - Now, it is a must in the field of bioinformatics to learn some programming language such as Python, R, PHP, etc.These languages are helpful in developing new software or bioinformatics tools that are in demand these days.I have included useful resources on this [here](
 
 7. Phylogenetics/ Evolutionary studies - Phylogenetics is important to understand the phylogeny of an organism or a species or a genus. You will have to learn different tools to perform phylogenetics. Evolutionary studies help to understand the evolution of a gene, protein, species, genus, or organism. You may have to use a set of tools to finally trace the evolutionary history.
 
@@ -71,7 +71,12 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 10. Database development and management - Biological databases are considered as one of the important resources of information in bioinformatics.It is important learn how the databases are developed and managed on servers. Besides, learning  to create websites/webpages, back-end, and front-end processing would be a plus.
 
 ## Contributions
-As indicated earlier,Contributions to this repository are welcome;If you have any improvements, suggestions, or additional resources to share, please feel free to create pull requests.
+As indicated earlier,Contributions to this repository are welcome;If you have any improvements, suggestions, or additional resources to share, please feel free to create [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+> Don't forget the cardinal rule when working with someone elses code: *-"Always leave the code you are editing a little cleaner than you found it"-*
+
+## Important links
+- [Dev. Documents](https://devdocs.io)
+- [Pro. Git](https://git-scm.com/book/en/v2)
 
 
 
