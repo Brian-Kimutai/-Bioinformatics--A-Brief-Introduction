@@ -1,12 +1,14 @@
 ## ~ Bioinformatics: A brief Introduction
-In this repository I outline a brief description or a general overview of Bioinformatics, that can serve as foundational knowledge before venturing into Bioinformatics. Glad to see you here. Contributions are welcome. :smile:  Lets dig in  :arrow_heading_down:
+In this repository I outline a brief description or a general overview of Bioinformatics, that can serve as foundational knowledge before venturing into Bioinformatics. Glad to see you here.:smile:  Lets dig in  :arrow_heading_down:
 ## Table Of Contents
 1. [Overview](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#overview)
 2. [Biologiocal Data Used in Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#types-of-biological-data-used-in-bioinfromatics)
 3. [Reasons to study Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#why-study-bioinformatics)
 4. [Key Concepts In Bioinformatics](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#key-concepts-in-bioinformatics)
-5. [Contributing]
-6. [Important links](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#important-links)
+5. [License]
+6. [Contributing]
+7. [Important links](https://github.com/Brian-Kimutai/Bioinformatics--A-Brief-Introduction/blob/main/README.md#important-links)
+8. [Contact]
    
 ### Overview 
 Bioinformatics is an interdisciplinary field of science that develops methods and software tools for understanding biological data, especially when the data sets are large and complex. Bioinformatics uses biology, chemistry, physics, computer science, [computer programming](https://en.wikipedia.org/wiki/Computer_programming), information engineering, mathematics and statistics to analyze and interpret biological data.
@@ -85,11 +87,11 @@ This project is licensed under the MIT License.
 As indicated earlier,Contributions to this repository are welcome;If you have any improvements, suggestions, or additional resources to share, please feel free to create [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 > Don't forget the cardinal rule when working with someone elses code: **"Always leave the code you are editing a little cleaner than you found it"**
 
-
 ## Important links
 - [Dev. Documents](https://devdocs.io)
 - [Pro. Git](https://git-scm.com/book/en/v2)
 
 ## Contact 
-
+For further assistance and enquiries ,I can be reached at brainskimutai@gmail.com.
+Cheers ! :clap: All the best in exploring Bioinformatics.
 
