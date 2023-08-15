@@ -82,6 +82,9 @@ Overall, bioinformatics provides you with a challenging and rewarding career tha
 As indicated earlier,Contributions to this repository are welcome;If you have any improvements, suggestions, or additional resources to share, please feel free to create [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 > Don't forget the cardinal rule when working with someone elses code: **"Always leave the code you are editing a little cleaner than you found it"**
 
+## License
+
+
 
 
 ## Important links
